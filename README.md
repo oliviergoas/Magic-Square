@@ -1,1 +1,1 @@
-# Magic-Square
+# Magic Square
